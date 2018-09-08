@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project Show Case App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">ios App Developer</string>
+    <string name="des">Hello i am an ios Apps developer.i built lot of ios apps for my client and few apps for app store..</string>
+
+    <string name="projttitle">Expense Manager App</string>
+
+    <string name="projdes">Expense Manager app for calculate your daily income and expense.Using this app User can Store their data on online server.</string>
+
+</resources>
